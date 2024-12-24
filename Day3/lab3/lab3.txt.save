@@ -1,0 +1,6 @@
+Lab Exercise
+• Given a sentence and a word, your task is that to count the number of occurrences of the given word in the string and print the number of occurrence of the word.
+	1.	﻿﻿﻿Perform the above task using only methods of the String class (2 ways).
+	2.	﻿﻿﻿Print the tokenizers as a specific word is the delimiter using StringTokenizer class
+"ITI develops people and ITI house of developers and ITI for people"
+• Split a string represent an IP address.
